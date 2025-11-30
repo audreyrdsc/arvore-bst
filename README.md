@@ -90,4 +90,4 @@ Windows/Linux/macOS
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/audreyrdsc/lista-duplamente-encadeada.git
+   git clone https://github.com/audreyrdsc/arvore-bst.git
